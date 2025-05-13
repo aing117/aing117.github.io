@@ -64,7 +64,7 @@
         "哎呀，这都被你发现了 ( 再点击一次可关闭 )" //站点介绍内容点击后文字
     ],
     "github": "imsyy", //Github 用户名
-    "qq": "1539250352", //QQ
+    "qq": "2146348688", //QQ
     "email": "one@imsyy.top", //Email电子邮件
     "telegram": "bottom_user", //Telegram 用户名
     "twitter": "iimmsyy", //Twitter用户名
